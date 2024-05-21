@@ -294,6 +294,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **V**
 
   - [Vishal Manve](https://github.com/vishalmanve)
+  - [Vaishali Gupta](https://github.com/vaishali-gupta32)
 
 - ### **W**
   - 
